@@ -8,7 +8,6 @@ Live GP/hr calculator for Tan Leather, Degrime, and Unf Potions using the OSRS W
 
 ## Usage
 python profit.py
-py profit.py
 
 ## config
 - HERBLORE_LEVEL — filters out herbs based on lvl
